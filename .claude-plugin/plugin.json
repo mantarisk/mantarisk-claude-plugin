@@ -1,0 +1,12 @@
+{
+  "name": "mantarisk",
+  "description": "Connect Claude Code to the MantaRisk portfolio risk analysis platform. Provides tools for portfolio analytics, stress testing, and investment reporting.",
+  "version": "1.0.0",
+  "author": {
+    "name": "MantaRisk",
+    "email": "support@mantarisk.com"
+  },
+  "homepage": "https://mantarisk.com",
+  "repository": "https://github.com/mantarisk/mantarisk-claude-plugin",
+  "license": "MIT"
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mantarisk": {
+      "type": "http",
+      "url": "https://mcp.mantarisk.com/mcp"
+    }
+  }
+}

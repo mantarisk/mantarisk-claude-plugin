@@ -1,0 +1,17 @@
+{
+  "name": "mantarisk",
+  "owner": {
+    "name": "MantaRisk",
+    "email": "support@mantarisk.com"
+  },
+  "metadata": {
+    "description": "MantaRisk portfolio risk analysis tools for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "mantarisk",
+      "source": "./",
+      "description": "Connect Claude Code to the MantaRisk portfolio risk analysis platform"
+    }
+  ]
+}
